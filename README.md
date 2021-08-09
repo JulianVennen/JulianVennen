@@ -1,16 +1,20 @@
-### Hi there 👋
+### About Me
+- 🎂 Born 15.02.2003
+- 🇩🇪 German
+- he/him
+- ⚙️ Developer @ [Aternos](https://aternos.org) 
+- 🐧 Linux user
 
-<!--
-**JulianVennen/JulianVennen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianVennen&hide=stars&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Social Media
+- Discord: Julian#0332
+- Instagram: [Mc88Donalds](https://www.instagram.com/mc88donalds/)
+
+![Followers](https://img.shields.io/github/followers/JulianVennen?style=social)
+![Starts](https://img.shields.io/github/stars/JulianVennen?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Twitter](https://img.shields.io/twitter/follow/Mc88Donalds?style=social)

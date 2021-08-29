@@ -4,10 +4,10 @@
 - he/him
 - ⚙️ Developer @ [Aternos](https://aternos.org) 
 - 🐧 Linux user
-
+- 🌐 [vennen.me](https://vennen.me)
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianVennen&hide=stars&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianVennen&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
